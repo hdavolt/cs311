@@ -1,0 +1,2 @@
+chess: main.cpp piece.cpp piece.hpp pawn.cpp pawn.hpp rook.cpp rook.hpp knight.cpp knight.hpp bishop.cpp bishop.hpp queen.cpp queen.hpp king.cpp king.hpp chess_errors.hpp
+	g++ -Wall main.cpp piece.cpp pawn.cpp rook.cpp knight.cpp bishop.cpp queen.cpp king.cpp -o chess

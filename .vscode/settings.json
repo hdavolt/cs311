@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "istream": "cpp",
+        "iosfwd": "cpp",
+        "numeric": "cpp",
+        "system_error": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled"
+}

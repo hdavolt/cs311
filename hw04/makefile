@@ -1,0 +1,2 @@
+bank: main4.cpp account.cpp account.hpp savings_account.cpp savings_account.hpp checking_account.hpp checking_account.cpp
+	g++ -Wall main4.cpp account.cpp savings_account.cpp checking_account.cpp -o bank
